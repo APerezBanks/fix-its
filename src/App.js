@@ -1,4 +1,5 @@
 import FixIt1 from "./Fix-it/Fix-it-1";
+import FixIt2 from "./Fix-it/Fix-it-2";
 import Fixit3 from "./Fix-it/Fix-it-3";
 
 const App = () => {
@@ -10,7 +11,7 @@ const App = () => {
         <Fixit3 />
       </div>
     </div>
-  );
+  )
 }
 
 export default App;
